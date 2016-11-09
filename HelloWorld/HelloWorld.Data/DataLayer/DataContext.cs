@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorld.Data
 {
-    class DataContext
+    public class DataContext
     {
     }
 }
